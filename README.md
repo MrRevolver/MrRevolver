@@ -8,11 +8,11 @@ I am a Frontend (React, JS) and Backend (Python, PHP) Developer.
 
 ## Employment 💻
 
-- **2020 - 2022** - AI DEVELOPER - QEX
+- **2020 - 2022** - AI DEVELOPER
     - AI-solutions development using Python
-- **2018 - 2022** - WEB DEVELOPER - QEX
+- **2018 - 2022** - WEB DEVELOPER
     - Web-app development using React
-- **2012 - 2018** - WEB DEVELOPER  - QEX
+- **2012 - 2018** - WEB DEVELOPER
     - Website development using PHP 
    
 ## Skills 🛠️
