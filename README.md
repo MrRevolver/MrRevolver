@@ -13,7 +13,7 @@ I am a Frontend (React, JS) and Backend (Python, PHP) Developer.
 - **2018 - 2022** - WEB DEVELOPER
     - Web-app development using React
 - **2012 - 2018** - WEB DEVELOPER
-    - Website development using PHP 
+    - Website development using PHP, JS, JQuery
    
 ## Skills 🛠️
 
